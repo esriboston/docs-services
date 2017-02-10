@@ -21,7 +21,7 @@ ArcGIS for Developers enables you to create and manage apps that include mapping
 
 To get started with the ArcGIS API for JavaScript on Bluemix:
 
-1. Sign up for a free ArcGIS Developer subscription, [sign up for one here](https://developers.arcgis.com/sign-up/){:new_window}.
+1. Sign up for a free [ArcGIS Developer subscription](https://developers.arcgis.com/sign-up/){:new_window}.
 2. Reference the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) and load the neccessary modules.{:new_window}.
 3. Create the map and select one of our many basemaps.
     ![](http://www.arcgis.com/features/img/maps/maps-banner.jpg)
