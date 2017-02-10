@@ -14,10 +14,10 @@ lastupdated: "2017-2-9"
 {:codeblock:.codeblock}
 {:pre: .pre}
 
-# Getting started with ArcGIS for developers
+# Getting started with ArcGIS for Developers
 {: #gettingstarted}
 
-ArcGIS for developers enables you to create and manage apps that include mapping, visualization, analysis, and more. Build web and mobile applications on Bluemix. Start with a basemap, then add your data, and interact using the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/).
+ArcGIS for Developers enables you to create and manage apps that include mapping, visualization, analysis, and more. Build web and mobile applications on Bluemix. Start with a basemap, then add your data, and interact using the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/).
 
 To get started with the ArcGIS API for JavaScript on Bluemix:
 
